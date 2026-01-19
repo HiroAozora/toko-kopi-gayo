@@ -1,6 +1,6 @@
-Nama : Iqbal Firzatullah
-NIM : 0702231030
-Matkul : Pemrograman Berbasis Web Lanjutan
+Nama : Iqbal Firzatullah</br>
+NIM : 0702231030</br>
+Matkul : Pemrograman Berbasis Web Lanjutan</br>
 
 # Toko Kopi Gayo ☕
 
